@@ -1,0 +1,12 @@
+                                     TOKENS.
+
+C tokens are smallest individual units in a program.
+
+C supports following tokens:
+
+1. IDENTIFIERS     -  user defined names/abbreviations.
+2. KEYWORDS        -  words which are specifc to C language.
+3. CONSTANTS       -  values which don't change.
+4. STRINGS         -  sequence of characters.
+5. OPERATORS       -  act on operands amd generates output.
+6. SPECIAL SYMBOLS -  used for preprocessor directive.
