@@ -1,0 +1,17 @@
+                   COMMENTS
+            
+What are comments ?
+- comments are the lines ignored by the compiler while compilation.
+
+Why comments ?
+- To make notes and provide details etc.
+
+How to add comments ?
+- For single line comment :-
+    // This line is a  single line comment
+- For multi lines comment :-
+    /* This 
+    is 
+    a multi 
+    line 
+    comment */
